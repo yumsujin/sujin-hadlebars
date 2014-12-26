@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="sujin-hadlebars:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sujin-hadlebars.war">
+      <element id="artifact" artifact-name="sujin-hadlebars:war exploded" />
+    </root>
+  </artifact>
+</component>
